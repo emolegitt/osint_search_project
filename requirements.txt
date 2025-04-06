@@ -1,0 +1,6 @@
+PyQt5==5.15.9
+requests==2.31.0
+beautifulsoup4==4.12.2
+torpy==1.1.6
+selenium==4.15.2
+webdriver-manager==4.0.1
