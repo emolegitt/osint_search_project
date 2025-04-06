@@ -8,7 +8,6 @@ OSINT Search Tool Pro — это приложение для поиска инф
 - Поиск по IP-адресу (страна, город, ISP).
 - Поддержка баз данных SQLite и TXT.
 - Использование Tor для анонимного поиска.
-- Свет
 
 ## Исполняемый файл
 Вы можете скачать готовый `.exe` файл из раздела [Releases](https://github.com/yourusername/osint_search_project/releases).
